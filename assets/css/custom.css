@@ -1,0 +1,8 @@
+.video-box1.background-image .video-box1{
+    background: #000 !important;
+}
+
+.team-box .team-img img{
+    height: 310px !important;
+    object-fit: cover;
+}
