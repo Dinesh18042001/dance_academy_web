@@ -1315,7 +1315,7 @@ textarea.is-invalid {
   padding-left: 18px;
 }
 
-.th-mobile-menu ul li a:before {
+/* .th-mobile-menu ul li a:before {
   content: '\f105';
   font-family: var(--icon-font);
   position: absolute;
@@ -1323,7 +1323,7 @@ textarea.is-invalid {
   top: 12px;
   margin-right: 10px;
   display: inline-block;
-}
+} */
 
 .th-mobile-menu ul li.th-active > a {
   color: var(--theme-color);
