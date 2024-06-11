@@ -28,3 +28,8 @@
         margin: 0 6px;
     }
 } */
+
+
+.number-dots .slick-dots button {
+    display: block;
+  }

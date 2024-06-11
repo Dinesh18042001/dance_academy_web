@@ -7,5 +7,27 @@
     object-fit: cover;
 }
 .header-logo img{
-    width: 230px;
+    width: 200px;
 }
+/* .background-image{
+    height: 120px;
+} */
+
+.hero-style1 {
+    padding: 150px 0 150px 0;
+}
+/* .background-image {
+    background-size: cover;
+    background-position: center; 
+} */
+ .hero-subtitle{
+    color: #BF9076;
+ }
+ .hero-subtitle::after{
+    background: #BF9076;
+ }
+ .text-theme{
+    color: #964B00
+    ;
+ }
+

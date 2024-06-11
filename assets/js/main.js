@@ -167,7 +167,7 @@
           slidesToShow: s("slide-show") ? s("slide-show") : 1,
           adaptiveHeight: !!s("adaptive-height"),
           centerMode: !!s("center-mode"),
-          autoplaySpeed: s("autoplay-speed") ? s("autoplay-speed") : 8e3,
+          autoplaySpeed: s("autoplay-speed") ? s("autoplay-speed") : 4e3,
           centerPadding: s("center-padding") ? s("center-padding") : "0",
           focusOnSelect: 0 != s("focuson-select"),
           pauseOnFocus: !!s("pauseon-focus"),
