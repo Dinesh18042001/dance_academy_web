@@ -1,0 +1,12 @@
+@media(min-width:991px){
+    .main-menu ul li{
+        margin: 0 11px;
+    }
+    .header-button .th-btn {
+        margin-left: 20px;
+        padding: 10px 15px;
+    }
+    .header-layout1 .main-menu > ul > li > a{
+        font-size: 15px;
+    }
+}

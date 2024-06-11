@@ -6,3 +6,6 @@
     height: 310px !important;
     object-fit: cover;
 }
+.header-logo img{
+    width: 230px;
+}
