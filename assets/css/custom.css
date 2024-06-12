@@ -39,3 +39,8 @@
     align-items: center;
     z-index: 99;
 } */
+
+.header-layout1 .main-menu > ul > li > a {
+    font-size: 20px;
+    font-weight: 400;
+}
