@@ -1,3 +1,4 @@
+
 .video-box1.background-image .video-box1{
     background: #000 !important;
 }
@@ -59,4 +60,9 @@
 .header-logo img {
     width: 167px;
 }
+.shape_1{
+    color: rgba(191, 144, 118, 1);
+}
+
+
 
