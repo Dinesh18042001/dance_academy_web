@@ -33,3 +33,11 @@
 .number-dots .slick-dots button {
     display: block;
   }
+
+
+  @media(min-width:991px){
+    .gallery-img img{
+        height: 400px;
+        object-fit: cover;
+    }
+  }
