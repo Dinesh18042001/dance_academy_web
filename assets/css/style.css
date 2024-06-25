@@ -2367,7 +2367,7 @@ textarea.is-invalid {
 
 .sub-title {
   position: relative;
-  font-family: var(--style-font);
+  /* font-family: var(--style-font); */
   color: var(--theme-color);
   font-weight: 400;
   font-size: 24px;
@@ -2919,9 +2919,9 @@ hr.title-line {
   font-family: var(--body-font);
 }
 
-.font-style {
+/* .font-style {
   font-family: var(--style-font);
-}
+} */
 
 .fw-extralight {
   font-weight: 100;
@@ -8337,7 +8337,7 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 
 .hero-subtitle {
   position: relative;
-  font-family: var(--style-font);
+  /* font-family: var(--style-font); */
   color: var(--theme-color);
   font-weight: 400;
   font-size: 24px;
@@ -17668,7 +17668,7 @@ hr.style1 {
 .price-card_title {
   position: relative;
   background-color: var(--theme-color);
-  font-family: var(--style-font);
+  /* font-family: var(--style-font); */
   font-weight: 400;
   font-size: 30px;
   line-height: 40px;
@@ -18064,7 +18064,7 @@ hr.style1 {
 }
 
 .countdown-area .countdown-subtitle {
-  font-family: var(--style-font);
+  /* font-family: var(--style-font); */
   font-size: 22px;
 }
 
