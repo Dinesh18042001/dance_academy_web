@@ -47,11 +47,7 @@
 }
 .ins-logo {
     display: flex;
-    justify-content: center; 
-    align-items: center; 
-    padding-top: 50px;
-   
-
+    width: 150px;
 }
 .ins-logo a img {
     max-width: 100%; 

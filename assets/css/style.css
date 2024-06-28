@@ -12564,7 +12564,12 @@ span.select2-selection.select2-selection--single:focus {
   border-radius: 99px;
   position: relative;
   margin-bottom: 34px;
-  /* Large devices */
+}
+/* .contact-info_icon:hover {
+  border: 2px solid black;
+} */
+.contact-info:hover .contact-info_icon{
+  border: 2px solid black;
 }
 
 @media (max-width: 1199px) {
@@ -12582,7 +12587,7 @@ span.select2-selection.select2-selection--single:focus {
   content: '';
   width: 100%;
   height: 100%;
-  border: 2px solid #6B2AE6;
+  border: 2px solid black;
   position: absolute;
   top: -10px;
   left: -10px;
