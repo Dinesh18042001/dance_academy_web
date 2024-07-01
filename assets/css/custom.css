@@ -46,8 +46,8 @@
  height: 135vh; 
 }
 .ins-logo {
-    display: flex;
     width: 150px;
+    align-items: center !important; 
 }
 .ins-logo a img {
     max-width: 100%; 
@@ -83,7 +83,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 45px;
 }
 .modal-img img {
     width: 100px;
@@ -111,7 +111,12 @@
     justify-content: center;
     align-items: center;   
 }
-
+.about-logo{
+    margin-left: -25px
+}
+.th-hero-bg {
+    height: 116vh;
+}
 
 
 
